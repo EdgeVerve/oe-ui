@@ -1,0 +1,33 @@
+{
+  "name": "oe-ui",
+  "main": "all-imports.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "oe-paper-chip": "http://github.com/EdgeVerve/oe-paper-chip.git",
+    "oe-data-table": "http://github.com/EdgeVerve/oe-data-table.git",
+    "meta-polymer": "http://github.com/EdgeVerve/meta-polymer.git",
+    "oe-validators": "http://github.com/EdgeVerve/oe-validators.git",
+    "oe-message-handler": "http://github.com/EdgeVerve/oe-message-handler.git",
+    "oe-app-route": "http://github.com/EdgeVerve/oe-app-route.git",
+    "oe-side-nav": "http://github.com/EdgeVerve/oe-side-nav.git",
+    "oe-info": "http://github.com/EdgeVerve/oe-info.git",
+    "oe-typeahead": "http://github.com/EdgeVerve/oe-typeahead.git",
+    "oe-radio-group": "http://github.com/EdgeVerve/oe-radio-group.git",
+    "oe-checkbox": "http://github.com/EdgeVerve/oe-checkbox.git",
+    "oe-combo": "http://github.com/EdgeVerve/oe-combo.git",
+    "oe-date": "http://github.com/EdgeVerve/oe-date.git",
+    "oe-data-mask-behavior": "http://github.com/EdgeVerve/oe-data-mask-behavior.git",
+    "oe-input": "http://github.com/EdgeVerve/oe-input.git",
+    "oe-field-behavior": "http://github.com/EdgeVerve/oe-field-behavior.git",
+    "oe-input-error": "http://github.com/EdgeVerve/oe-input-error.git",
+    "oe-i18n-msg": "http://github.com/EdgeVerve/oe-i18n-msg.git",
+    "oe-utils": "http://github.com/EdgeVerve/oe-utils.git",
+    "oe-ajax": "http://github.com/EdgeVerve/oe-ajax.git"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
+}
