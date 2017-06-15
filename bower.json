@@ -15,7 +15,7 @@
     "oe-radio-group": "https://github.com/EdgeVerve/oe-radio-group.git",
     "oe-checkbox": "https://github.com/EdgeVerve/oe-checkbox.git",
     "oe-combo": "https://github.com/EdgeVerve/oe-combo.git",
-    "oe-date": "http://github.com/EdgeVerve/oe-date.git",
+    "oe-date": "https://github.com/EdgeVerve/oe-date.git",
     "oe-data-mask-behavior": "https://github.com/EdgeVerve/oe-data-mask-behavior.git",
     "oe-input": "https://github.com/EdgeVerve/oe-input.git",
     "oe-field-behavior": "https://github.com/EdgeVerve/oe-field-behavior.git",
