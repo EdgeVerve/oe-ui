@@ -5,8 +5,6 @@
     "polymer": "Polymer/polymer#^1.4.0",
     "oe-paper-chip": "https://github.com/EdgeVerve/oe-paper-chip.git",
     "oe-data-table": "https://github.com/EdgeVerve/oe-data-table.git",
-    "meta-polymer": "https://github.com/EdgeVerve/meta-polymer.git",
-    "oe-validators": "https://github.com/EdgeVerve/oe-validators.git",
     "oe-message-handler": "https://github.com/EdgeVerve/oe-message-handler.git",
     "oe-app-route": "https://github.com/EdgeVerve/oe-app-route.git",
     "oe-side-nav": "https://github.com/EdgeVerve/oe-side-nav.git",
@@ -22,7 +20,9 @@
     "oe-input-error": "https://github.com/EdgeVerve/oe-input-error.git",
     "oe-i18n-msg": "https://github.com/EdgeVerve/oe-i18n-msg.git",
     "oe-utils": "https://github.com/EdgeVerve/oe-utils.git",
-    "oe-ajax": "https://github.com/EdgeVerve/oe-ajax.git"
+    "oe-ajax": "https://github.com/EdgeVerve/oe-ajax.git",
+    "oe-ui-forms": "https://github.com/EdgeVerve/meta-polymer.git",
+    "oe-ui-misc": "https://github.com/EdgeVerve/oe-ui-misc.git"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
