@@ -291,6 +291,7 @@ Property | Required | Default |         Description
 `listdata` | no | - | For combo-input, list of dropdown choices.
 `listurl`  | no | - | Alternatively the input choices for combo can be retrieved dynamically from a rest url.
 `bindto`   | no | - | Model to which control value is bound
+`bindAttribute`   | no | - | user defined value-property of control. 
 `displayproperty` | no | - | [Combo and typeahead], operate on an array of selectable items. When the selectable-item is an object, you can extract one field from model to be displayed as menu title.
 `valueproperty` | no | - | [Combo and typeahead], operate on an array of selectable items. When the selectable-item is an object, you can extract one field from model to be set as selected `value`.
 `selectionBinding`| no | - | [Combo and typeaheaad] In some cases (e.g. Accounts drop down), while selected value is bound as `accountId`, it is desired to have the selected item also available so as to display may be accountName or accountBalance.
